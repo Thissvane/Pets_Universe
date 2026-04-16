@@ -1,11 +1,15 @@
 # Pets_Universe
 En este repositorio se encontrara todo lo relacionado al desarrollo del proyecto técnico Pets Universe desarrollado desde el 2025
-🐾 Pets Universe — Sistema de Agendamiento de Citas Veterinarias
-Aplicación web para la gestión y agendamiento de citas de la clínica veterinaria Pets Universe, desarrollada como solución digital 24/7 que reemplaza los procesos manuales y telefónicos tradicionales.
-📋 Descripción del proyecto
-Permite a los propietarios de mascotas reservar, cancelar y reprogramar citas de forma autónoma, mientras el personal administrativo gestiona la agenda completa desde un panel centralizado. El sistema incluye notificaciones automáticas por correo electrónico, calendario de disponibilidad en tiempo real y generación de reportes de actividad.
-🛠️ Tecnologías utilizadas
-Capa    -    Tecnología
-Frontend   HTML5, CSS3, JavaScript
-Base de datosSQL (MySQL / PostgreSQL)
-Backend (próximamente)Python con FastAPI
+🐾 Pets Universe
+Modernizando el cuidado veterinario a través de la tecnología.
+
+Este proyecto surge como respuesta a la necesidad de digitalizar y optimizar los procesos de agendamiento. Pets Universe ofrece una solución accesible 24/7, permitiendo que la gestión de citas sea fluida tanto para los dueños de mascotas como para el personal administrativo.
+
+✨ Características Principales
+📅 Agendamiento Autónomo: Reserva de citas en cualquier momento, sin depender de horarios de oficina.
+
+🔔 Recordatorios Automáticos: Sistema de notificaciones para reducir el ausentismo.
+
+🏥 Gestión Administrativa: Panel eficiente para que el personal veterinario organice su agenda de trabajo.
+
+📱 Acceso Universal: Diseño pensado para ser consultado desde cualquier dispositivo.
