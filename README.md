@@ -1,5 +1,8 @@
 # Pets_Universe
-# 🐾 Pets Universe <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/848c09d3-c7d5-446b-885f-c8d22744e603" />
+# 🐾 Pets Universe <p align="center">
+  <img src="[aquí-va-el-enlace-o-ruta-de-tu-logo](https://github.com/user-attachments/assets/848c09d3-c7d5-446b-885f-c8d22744e603)" alt="Logo Pets Universe" width="150">
+</p>
+
 > **Digitalizando el cuidado veterinario con eficiencia y accesibilidad.**
 
 
