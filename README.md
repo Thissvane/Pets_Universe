@@ -1,6 +1,6 @@
 # Pets_Universe
 # 🐾 Pets Universe <p align="center">
-  <img src="[aquí-va-el-enlace-o-ruta-de-tu-logo](https://github.com/user-attachments/assets/848c09d3-c7d5-446b-885f-c8d22744e603)" alt="Logo Pets Universe" width="150">
+  <img src="(https://github.com/user-attachments/assets/848c09d3-c7d5-446b-885f-c8d22744e603)" alt="Logo Pets Universe" width="150">
 </p>
 
 > **Digitalizando el cuidado veterinario con eficiencia y accesibilidad.**
@@ -35,7 +35,5 @@ Actualmente, el proyecto se encuentra en fase de **desarrollo de interfaz y dise
 
 ---
 
-### <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/c5f1b0d1-1a7f-4236-8897-9b0d06102092" />
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/711b62fa-9b92-4181-9a29-b54b22ad69b4" />
  Autor
 * **Vanessa Carolina González Reyes** - *Análisis y Desarrollo de Software*
