@@ -1,15 +1,35 @@
 # Pets_Universe
-En este repositorio se encontrara todo lo relacionado al desarrollo del proyecto técnico Pets Universe desarrollado desde el 2025
-🐾 Pets Universe
-Modernizando el cuidado veterinario a través de la tecnología.
+# 🐾 Pets Universe
+> **Digitalizando el cuidado veterinario con eficiencia y accesibilidad.**
 
-Este proyecto surge como respuesta a la necesidad de digitalizar y optimizar los procesos de agendamiento. Pets Universe ofrece una solución accesible 24/7, permitiendo que la gestión de citas sea fluida tanto para los dueños de mascotas como para el personal administrativo.
+**Pets Universe** es una plataforma web diseñada para modernizar la gestión de clínicas veterinarias. El sistema permite a los usuarios agendar servicios de forma autónoma las 24 horas del día, optimizando la agenda de los profesionales y mejorando la experiencia de atención para las mascotas.
 
-✨ Características Principales
-📅 Agendamiento Autónomo: Reserva de citas en cualquier momento, sin depender de horarios de oficina.
+---
 
-🔔 Recordatorios Automáticos: Sistema de notificaciones para reducir el ausentismo.
+### 🛠️ Tecnologías utilizadas
 
-🏥 Gestión Administrativa: Panel eficiente para que el personal veterinario organice su agenda de trabajo.
+| Capa | Tecnología |
+| :--- | :--- |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Base de datos** | SQL (MySQL / PostgreSQL) |
+| **Backend (próximamente)** | Python con FastAPI |
 
-📱 Acceso Universal: Diseño pensado para ser consultado desde cualquier dispositivo.
+---
+
+### ✨ Características Principales
+
+* **📅 Agendamiento Autónomo:** Reserva de citas en tiempo real según disponibilidad de servicios y profesionales.
+* **🔔 Sistema de Recordatorios:** Notificaciones automáticas para reducir el ausentismo en las consultas.
+* **🏥 Gestión Administrativa:** Panel de control para que el personal veterinario administre su agenda de trabajo de forma eficiente.
+* **📱 Diseño Responsive:** Interfaz adaptable para una navegación fluida desde computadoras y dispositivos móviles.
+
+---
+
+### 🚀 Estado del Proyecto
+
+Actualmente, el proyecto se encuentra en fase de **desarrollo de interfaz y diseño de arquitectura de datos**. La documentación técnica sigue los estándares de la norma **IEEE 830** para garantizar un desarrollo robusto y profesional.
+
+---
+
+### 👤 Autor
+* **Vanessa Carolina González Reyes** - *Análisis y Desarrollo de Software*
