@@ -2,7 +2,6 @@ DROP DATABASE IF EXISTS PetsUniverse;
 CREATE DATABASE PetsUniverse;
 USE PetsUniverse;
 
--- Tablas Maestras
 CREATE TABLE TipoUsuario (
     id_TipoUsuario int not null auto_increment,
     nombreTipo varchar(50),
@@ -53,7 +52,6 @@ CREATE TABLE TipoNotificacion (
     primary key (id_TipoNotificacion)
 );
 
--- Tablas con Relaciones
 CREATE TABLE Raza (
     id_Raza INT NOT NULL AUTO_INCREMENT,
     Nombre VARCHAR(45),
