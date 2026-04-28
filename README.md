@@ -17,7 +17,7 @@
 | Capa | Tecnología |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript |
-| **Base de datos** | SQL (MySQL  |
+| **Base de datos** | SQL (MySQL)  |
 | **Backend (próximamente)** | Python con FastAPI |
 
 ---
