@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pets Universe - Bienvenido al Universo de tu Mascota</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+ 
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="inicio.html">
+            <img src="../../Public/img/icono2.0Sin_Fondo_Con_Borde.png" alt="Icono">
+            <h2>Pets<span>Universe</span></h2>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto align-items-center">
+                <li class="nav-item">
+                    <a class="nav-link" href="#nosotros">Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#servicios">Servicios</a>
+                </li>
+ 
+                <li class="nav-item ms-lg-3 mt-2 mt-lg-0">
+                    <a class="nav-link px-3 fw-bold" href="registro.html" style="color: var(--universe-gold);">Crea tu cuenta</a>
+                </li>
+                <li class="nav-item mt-2 mt-lg-0">
+                    <a class="btn-custom btn-outline-pets px-4 py-2" href="login.html" style="text-decoration: none; display: inline-block;">Ingresa</a>
+                </li>
+                </ul>
+        </div>
+    </div>
+</nav>
+
+<header id="hero-carousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#hero-carousel" data-bs-slide-to="1"></button>
+    </div>
+
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="https://images.unsplash.com/photo-1583337130417-3346a1be7dee?q=80&w=1528" class="d-block w-100" alt="Perro">
+            <div class="carousel-caption text-start">
+                <h1 class="display-4 fw-bold text-uppercase" style="color: var(--universe-gold);">Conocé lo nuevo</h1>
+                <p>Un espacio diseñado para la comodidad de tu mascota. Agenda su cita con un solo clic.</p>
+                <a href="login.html" class="btn-custom btn-outline-pets">Agendar ahora</a>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=1443" class="d-block w-100" alt="Gato">
+            <div class="carousel-caption">
+                <h1 class="display-4 fw-bold text-uppercase" style="color: var(--pets-blue);">Salud Galáctica</h1>
+                <p>Atención especializada 24/7 para emergencias.</p>
+            </div>
+        </div>
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#hero-carousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#hero-carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</header>
+
+<section id="servicios" class="services-grid container">
+    <div class="text-center mb-5">
+        <h2 class="fw-bold">Nuestros Servicios Estelares</h2>
+        <div style="width: 80px; height: 4px; background: var(--pets-blue); margin: 10px auto;"></div>
+    </div>
+
+    <div class="row row-cols-2 row-cols-md-4 g-5">
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/consultaGeneral.jpg" alt="Consulta">
+                <div class="service-title">Consulta General</div>
+                <div class="service-overlay"><p class="mb-0">Revisión integral de salud.</p></div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/vacunacion.jfif" alt="Vacunación">
+                <div class="service-title">Vacunación</div>
+                <div class="service-overlay"><p class="mb-0">Esquema completo de inmunización.</p></div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/desparasitacion.jfif" alt="Desparasitación">
+                <div class="service-title">Desparasitación</div>
+                <div class="service-overlay"><p class="mb-0">Protección interna y externa.</p></div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/esterilizacion.jpg" alt="Esterilización">
+                <div class="service-title">Esterilización</div>
+                <div class="service-overlay"><p class="mb-0">Cirugía segura y profesional.</p></div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/hospitalizacion.jpg" alt="Hospitalización">
+                <div class="service-title">Hospitalización</div>
+                <div class="service-overlay"><p class="mb-0">Cuidados intensivos.</p></div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/urgencias.jfif" alt="Urgencias">
+                <div class="service-title">Urgencias 24/7</div>
+                <div class="service-overlay"><p class="mb-0">Atención inmediata siempre.</p></div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/peluqueria.jfif" alt="Peluquería">
+                <div class="service-title">Peluquería</div>
+                <div class="service-overlay"><p class="mb-0">Estética y baño relajante.</p></div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="service-item">
+                <img src="../../Public/img/guarderia.jfif" alt="Guardería">
+                <div class="service-title">Guardería</div>
+                <div class="service-overlay"><p class="mb-0">Diversión y cuidado seguro.</p></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <p class="opacity-50 mt-3">&copy; 2026 Pets Universe. Todos los derechos reservados.</p>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../../Public/js/scripts.js"></script>
+</body>
+</html>
