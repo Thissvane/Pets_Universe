@@ -18,7 +18,7 @@
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Base de datos** | SQL (MySQL)  |
-| **Backend (próximamente)** | Python con FastAPI |
+| **Backend (próximamente)** | Por definir |
 
 ---
 
