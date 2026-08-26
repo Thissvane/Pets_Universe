@@ -1,7 +1,7 @@
 # Pets_Universe
 # 🐾 Pets Universe <p align="center">
   <p align="center">
-  <img src="Public(assets)/img/logo_actualizado.png" alt="Logo Pets Universe" width="200">
+  <img src="Public(assets)/img/logo_actualizado.png" alt="Logo Pets Universe" width="500">
   </p>
 
 
