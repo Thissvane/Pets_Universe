@@ -1,8 +1,8 @@
 # Pets_Universe
 # 🐾 Pets Universe <p align="center">
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/b001c7aa-972b-4e4d-a490-852de1d5ced0" alt="Logo Pets Universe" width="200">
-</p>
+  <img src="Public(assets)/img/logo_actualizado.png" alt="Logo Pets Universe" width="200">
+  </p>
 
 
 > **Digitalizando el cuidado veterinario con eficiencia y accesibilidad.**
