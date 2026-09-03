@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             if (clave !== claveConfirmar) {
                 e.preventDefault();
-                alert('⚠️ Las contraseñas no coinciden. Por favor, verifica e intenta de nuevo.');
+                alert(' Las contraseñas no coinciden. Por favor, verifica e intenta de nuevo.');
                 formRegistro.querySelector('[name="clave_confirmar"]').focus();
             }
         });
